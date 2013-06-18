@@ -4,14 +4,14 @@
     id        = "com.phonegap.example"
     version   = "1.0.0">
 
-<name>PhoneGap Build Application</name>
+<name>Pushnotitest</name>
 
 <description>
-A simple PhoneGap Build application.
+Push notification system test
 </description>
 
 <author href="https://example.com" email="you@example.com">
-Your Name
+Domy
 </author>
 
 </widget>
